@@ -305,7 +305,7 @@ console.log(contemMa); //resultado = true;
 
 </div>
 
-## Conteudos que eu gostraria de aprender sobre os assuntos desse modulo
+## Conteúdos que eu gostraria de aprender sobre os assuntos desse módulo
 
 ### Conteúdos de logíca  
 
@@ -498,9 +498,7 @@ console.log(contemMa); //resultado = true;
     // Isso acontece porque o próprio TypeScript já usa a união de tipos quando colocamos uma propriedade como opcional.
   }
   ```
-
-  4.
-
+  
 ### Contúdos carreira
 
 * **Gestão de tempo**  
