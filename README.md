@@ -170,8 +170,8 @@ console.log(contemMa); //resultado = true;
     // Método reverse
   // VAriavel numeros, é um array com três elementos.
   const numeros = [10, 25, 50];
-  // Retorno do array inverso. 
-  numeros.reveser();
+  // Declaração do método reverse que retorna o array inverso do inicial. 
+  numeros.reverse();
   console.log(numeros); // [50, 25, 10] Array inverso.
   ```
 
@@ -212,7 +212,7 @@ console.log(contemMa); //resultado = true;
   console.log(buscarCliente) // { nome: 'Mateus', idade: 28 }
   ```
 
-  * Eu conhecia também um pouco o método `findIndex` apesar de ter uma sintáxica de uso, a meu ver, idêntica ao `find`, ele tem uma utilidade diferente. O método retorna o índice do elemento caso existente no array, se não for encontrado, o retorno será de −1.  
+  * Eu conhecia também um pouco o método `findIndex` apesar de ter uma sintaxe de uso, a meu ver, idêntica ao `find`, ele tem uma utilidade diferente. O método retorna o índice do elemento caso existente no array, se não for encontrado, o retorno será de −1.  
 
   ```js
   Exemplo:
