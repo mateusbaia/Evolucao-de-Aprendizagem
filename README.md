@@ -1,8 +1,10 @@
 # <span style="color: #ff6600; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Evolução de Aprendizagem com a Cubos</span>
+<details> 
+<summary>Módulo II</summary
 
 ## Conteúdos a serem trabalhados nesse módulo
 
-### Conteúdos lógico
+### Conteúdos lógicos
 
 1. [Funções](#funções)
 2. [Tipos de Dados II](#tiposDadosII)
@@ -934,3 +936,196 @@
 
     1. Aprendi que um LinkedIn bem organizado e com estratégias de qualidades pode nos dar mais oportunidades para conseguirmos ter mais visibilidade e oportunidade de trabalho.
     Em especial, na nossa área de programação, nos mostra como profissionais atualizados e se aproximar de pessoas do nosso meio. Utilizar palavras-chave, otimizar nosso perfil, postar conteúdos de qualidade pode dar mais visibilidade e engajamento em nosso perfil.
+ </details>
+
+---
+
+---
+
+<details>
+<summary> Módulo III</summary>
+
+## Conteudos a serem trabalhados nesse modulo
+
+### Conteúdos lògicos  
+1. [Testes Automatizados](#TestesAutomatizados)
+2. [Servidor](#Servidor)
+3. [Rotas Intermediarios e Controladores](#RotasItermediaroControladores)
+4. [Api Rest](#ApiRest)
+5. [Orientação a Objetos](#OrientaçãoObjetos)
+6. [Assincronismo Leitura Escrita em Arquivos](#AssincLeitEscritaArquivos)
+7. [Tratamentos de Erros com Herança e Polimorfismo](#TratamentosHerançaPolimorfismo)
+
+### Conteúdos de carreira  
+1. [GitHub](#GitHub)
+2. [Comunicação](#Comunicação)
+3. [Pesquisa e leitura de documentações](#PesquisaLeituraDocumentação)
+4. [Autoconhecimento e Inteligência Emocional](#AutoconhecimentoInteligenciEmocional)
+5. [Tendência em tecnologia](#TendênciaTecnologia)  
+
+## Os meus conhecimentos sobre os assuntos a serem abordados nesse módulo
+
+### Conteúdos lógicos
+
+ <div id="TestesAutomatizados"></div>
+
+ **Testes Automatizados**
+
+ - Eu não tinha conhecimentos sobre os testes Automatizados.
+
+  <div id="RotasItermediaroControladores"></div>
+
+**Rotas Intermediarios e Controladores**
+
+- Eu tinha conhecimento que rotas São os endereços específicos dentro de uma API que os clientes usam para fazer solicitações, chamadas de Endpoints.
+
+  <div id="ApiRest"></div>
+
+**Api Rest**
+
+- Eu não tinha conheciments sobre API Rest
+
+ <div id="OrientaçãoObjetos"></div>
+
+**Orientação a Objetos** 
+
+- Eu havia um pouco de conhecimento previo sobre orientação a objeto, que é classificada como um paradigma de programação que organiza o código em unidades chamadas de objetos. Esses objetos possuem atributos, dados, e métodos, funções que definem seu comportamento.
+
+   <div id="AssincLeitEscritaArquivos"></div>
+
+**Assincronismo Leitura Escrita em Arquivos**
+
+- Eu não tinha conhecimento sobre Assincronismo Leitura Escrita em Arquivos
+
+
+  <div id="TratamentosHerançaPolimorfismo"></div>
+
+**Tratamentos de Erros com Herança e Polimorfismo**
+
+- Eu havia um pouco conhecimento sobre sobre Herança. Ela permite que uma classe herde atributos e métodos de outra classe, promovendo a reutilização de código. E Polimorfismo, tem um sentido parecido como muitas formas, na prática, isso quer dizer que um mesmo método pode ter comportamentos diferentes dependendo do objeto que o invoca.
+
+
+### Contúdos de carreira
+  <div id="GitHub"></div>
+
+**GitHub**
+- Eu sabia que o GitHub é uma plataforma de hospedagem de código-fonte e controle de versão que utiliza o sistema Git. Ele permite que desenvolvedores colaborem em projetos de software, mantendo um registro detalhado de todas as mudanças feitas no código.
+
+   <div id="Comunicação"></div>
+
+**Comunicação**
+- Eu havia conhecimento sobre a importancia de ter uma boa comunicação, mas na tinha conhecimentos especificos sobre métodos de melhorerias de comunicação.
+
+
+  <div id="PesquisaLeituraDocumentação"></div>
+
+**Pesquisa e leitura de documentações**
+
+- Eu fazia leituras ja em documentções,, mas não possuia muito conhecimentos sobre abordagens mais eficaz de pesquisas em documentações.
+
+  <div id="AutoconhecimentoInteligenciEmocional"></div>
+
+**Autoconhecimento e Inteligência Emocional**
+
+- Possuia conhecimento que Autoconhecimentone é a habilidade de entender e reconhecer os próprios sentimentos, pensamentos, valores e comportamentos. É um processo contínuo de reflexão sobre si mesmo, que permite identificar pontos fortes e áreas de melhoria.
+E Inteligencia Emocional é a capacidade de identificar, compreender e gerenciar as próprias emoções e as emoções dos outros. Ela envolve várias competências, como autoconsciência, autorregulação, motivação, empatia e habilidades sociais.
+
+
+  <div id="TendênciaTecnologia"></div>
+  
+**Tendência em tecnologia**
+- tinha conhecimentos sobre algumas tedencias em tecnologia com inteligencia artificial.
+
+
+## Conteúdos que eu gostraria de aprender sobre os assuntos desse módulo
+
+### Conteúdos Lógico
+
+- `Testes Automatizados`
+
+- Gostria de aprender como poasso aplicar testes automatizados em meus códigos para diminuir erros e melhorar a perfoma de meus projetos.
+
+- `Rotas Intermediarios e Controladores`
+
+- gostaria de aprender como devo criar rotas de qualidade, como devo incluir controladores e intermediarios em minhas api.
+
+
+- `Api Rest`
+
+- Gostaria de aprender quis são os padrões que devo incluir em minhas Api Rest para deixar elas dentro de boas praticas e eficaz, respodendo todas obrigações de api rest e restFull.
+
+- `Orientação a Objetos`
+
+- Gostaria de apreder mais sobre Orientação a Objetos, padroes de uso e boas pratica, melhorias que ela pode trazer para meus códigos e projetos, quando devo ou não fazer uso de orientação a objetos
+
+- `Assincronismo Leitura Escrita em Arquivos`
+
+- Gostaria de Aprender como posso posso fazer uso de Assincronismo Leitura Escrita em Arquivos,quias são os principios que devo seguir, para ta fazendo Assincronismo Leitura Escrita em Arquivos, atraves de meus códigos e projetos.
+
+- `Tratamentos de Erros com Herança e Polimorfismo`
+
+- Gostaria de aprender como posso ta fazendo tratamentos de erros em meus projetos métodos e padrões.
+
+- Gostaria de aprender mais sobre herança e polimorfismo, padroes que devo seguir como posso ta utilizando em depedentes linguagen, quais liguangens permitem o uso, e forneça base para trabalhar com herança e polimorfismomatendo o codigo eficientes.
+
+### Contúdos de carreira
+
+- `GitHub`
+
+- Gostaria de aprender como posso ta estrindo mais do github dos mecanismo que ele fornece para nós desenvolvedore, e como consigo interagir com outros desenvolvedores através de repositorios open source.
+
+- `Comunicação`
+
+- Gostaria de aprender como posso melhorar minha comunicação para poder me expressar melhor em entrevistas e reuniões, e até mesmo no dia a dia para poder ser compreendido corretamente e conseguir transmetir a menssagem correta.
+
+- `Pesquisa e leitura de documentações`
+
+- Gostaria de aprender como otimizo a busca em documentação e quis passos devo seguir para encontrar mais facil os dados que procuro. 
+
+- `Autoconhecimento e Inteligência Emocional` 
+
+- Gostaria de aprender como eu posso ter mais Autoconhecimento e inteligencia emocional para tomar melhores decições perante ao meu desafios e conseguer compreender melhor o outro para conseguir entra numa mesma sitonia perante a cobrançs e trabalhos do quais for preciso trabalharmos juntos.
+
+- `Tendência em tecnologia`
+
+- Gostaria de aprender como posso ta sempre por dentro de novos tecnologias e como destinguir se uma certa tecnologia é boa ou não perante asmudanças e inovações e quis tendencias de tecnologias são relevante para minha area de atuação.
+
+
+## Coteúdos que eu aprendi nesse módulo
+
+### Conteúdos lógico
+
+- **Testes Automatizados**
+
+- Aprendi a criar e configurar testes utilizando Jest e typescript, criando testes unitarios para para validar e automatizar tarefas, e funções para corrigir e encontrar erros que possa causar quebras inesperadas do projeto.  Com isso é possivel otimizar ainda mais valhas e necessidades de manutenção futuras em códigos.
+
+- **Rotas Intermediarios e Controladores**
+
+- Aprendi como criar rotas get, post, update, delete, como divido as funções de rotas em controladores melhorando a divisão dos código, e suua leitura.
+
+- Aprendi quando e porque usar Intermediarios de rotas, conhecidos como middlerewa, eles são funções que utilizamos antes de rotas especificas que permite verificar ou validar acessos ou solicitações de parametro necessario para o usuario ter acesso aquela rota com isso dimunuir o risco deusuarios indesejados ou sem autoridade acesse as rotas sem ter permição.
+
+- **Api Rest**
+
+- Aprendi um pouco mais sobre Api Rest, os métodos e conceitos de boas praticas que uma api nessecita ter para ser conciderada uma api rest, o que diferencia uma api reste de uma Api RestFull,    
+
+- Aprendi que uma api reste e composta por rotas 'endpoint' com padrões get, post update, e delete, 
+
+- **Orientação a Objetos**
+
+- **Assincronismo Leitura Escrita em Arquivos**
+
+- **Tratamentos de Erros com Herança e Polimorfismo**
+
+### Contúdos de carreira
+
+- **GitHub**
+
+- **Comunicação**
+
+- **Pesquisa e leitura de documentações**
+
+- **Autoconhecimento e Inteligência Emocional**
+
+- **Tendência em tecnologia**
+</details>
